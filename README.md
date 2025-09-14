@@ -24,19 +24,6 @@ Ingeniero de sistemas enfocado en desarrollo backend, automatización y análisi
 
 ---
 
-## 🛠️ Projects
-
-- 📰 **[News Monitor Pipeline](https://github.com/tuusuario/news-monitor-pipeline)**  
-  Scraping + NLP + Validación de entidades + Excel Automation
-
-- 🧪 **[ETL Testing Framework](https://github.com/tuusuario/etl-testing-framework)**  
-  Pruebas automatizadas para pipelines de datos
-
-- 🌐 **[Fullstack Java + Oracle](https://github.com/tuusuario/fullstack-java-oracle)**  
-  Proyecto con Spring, JSP, REST/SOAP y PL/SQL
-
----
-
 ## 📫 Contact
 
 - 📧 **Email:** luisgarciah2010@hotmail.com  
@@ -44,14 +31,5 @@ Ingeniero de sistemas enfocado en desarrollo backend, automatización y análisi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="Luis's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 > “Los datos bien orquestados no solo informan, transforman.”  
